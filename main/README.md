@@ -1,4 +1,4 @@
-# URL Shortener Django Projectf
+# URL Shortener Django Project
 Welcome to the URL Shortener Django Project repository! This project provides a web-based URL shortening service implemented using Django, allowing users to easily create and share shortened URLs.
 ## Requirements
 To run this project, you'll need the following:
